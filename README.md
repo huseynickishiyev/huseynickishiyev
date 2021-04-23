@@ -1,6 +1,6 @@
 - Hi, I’m @huseynickishiyev
 - I’m interested in writing scripts/
-- I’m currently learning Python
+- I’m currently learning Machine Learning
 
 <!---
 huseynickishiyev/huseynickishiyev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
